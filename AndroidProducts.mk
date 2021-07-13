@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_star2lte.mk
+    $(LOCAL_DIR)/descendant_star2lte.mk
 
 COMMON_LUNCH_CHOICES := \
-     lineage_star2lte-userdebug \
-     lineage_star2lte-eng \
-     lineage_star2lte-user
+     descendant_star2lte-userdebug \
+     descendant_star2lte-eng \
+     descendant_star2lte-user
